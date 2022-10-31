@@ -92,7 +92,7 @@ fi
 
 echo ""
 echo "=========================================================="
-echo "DEPLOYMENT SUCCEEDED!!"
+echo "DEPLOYMENT SUCCEEDED!!!!"
 if [ ! -z "${APP_SERVICE}" ]; then
   echo ""
   # check if a route resource exists in the this kubernetes cluster
